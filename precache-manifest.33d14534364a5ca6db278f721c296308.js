@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "682387be6e19ab2caec53c8880493c4e",
+    "revision": "4dab5ed6798c741f35e4a0c22f0a9e19",
     "url": "https//blari.github.io/reactSearcPage/index.html"
   },
   {
-    "revision": "6e3ef9f1718100031e51",
-    "url": "https//blari.github.io/reactSearcPage/static/css/main.0ec27938.chunk.css"
+    "revision": "2c0e5162de4d14411ce5",
+    "url": "https//blari.github.io/reactSearcPage/static/css/main.1881f3a5.chunk.css"
   },
   {
     "revision": "35fb934d7e7614616deb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.LICENSE"
   },
   {
-    "revision": "6e3ef9f1718100031e51",
-    "url": "https//blari.github.io/reactSearcPage/static/js/main.355ac86b.chunk.js"
+    "revision": "2c0e5162de4d14411ce5",
+    "url": "https//blari.github.io/reactSearcPage/static/js/main.e43a6cab.chunk.js"
   },
   {
     "revision": "db598a0de854d507d52f",

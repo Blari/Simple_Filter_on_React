@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https//blari.github.io/reactSearcPage/static/css/main.0ec27938.chunk.css",
-    "main.js": "https//blari.github.io/reactSearcPage/static/js/main.355ac86b.chunk.js",
-    "main.js.map": "https//blari.github.io/reactSearcPage/static/js/main.355ac86b.chunk.js.map",
+    "main.css": "https//blari.github.io/reactSearcPage/static/css/main.1881f3a5.chunk.css",
+    "main.js": "https//blari.github.io/reactSearcPage/static/js/main.e43a6cab.chunk.js",
+    "main.js.map": "https//blari.github.io/reactSearcPage/static/js/main.e43a6cab.chunk.js.map",
     "runtime-main.js": "https//blari.github.io/reactSearcPage/static/js/runtime-main.12a039d5.js",
     "runtime-main.js.map": "https//blari.github.io/reactSearcPage/static/js/runtime-main.12a039d5.js.map",
     "static/js/2.aa6b2f6b.chunk.js": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js",
     "static/js/2.aa6b2f6b.chunk.js.map": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.map",
     "index.html": "https//blari.github.io/reactSearcPage/index.html",
-    "precache-manifest.f80f4ea8d1c1fc8bcd797c898dc91146.js": "https//blari.github.io/reactSearcPage/precache-manifest.f80f4ea8d1c1fc8bcd797c898dc91146.js",
+    "precache-manifest.33d14534364a5ca6db278f721c296308.js": "https//blari.github.io/reactSearcPage/precache-manifest.33d14534364a5ca6db278f721c296308.js",
     "service-worker.js": "https//blari.github.io/reactSearcPage/service-worker.js",
-    "static/css/main.0ec27938.chunk.css.map": "https//blari.github.io/reactSearcPage/static/css/main.0ec27938.chunk.css.map",
+    "static/css/main.1881f3a5.chunk.css.map": "https//blari.github.io/reactSearcPage/static/css/main.1881f3a5.chunk.css.map",
     "static/js/2.aa6b2f6b.chunk.js.LICENSE": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.12a039d5.js",
     "static/js/2.aa6b2f6b.chunk.js",
-    "static/css/main.0ec27938.chunk.css",
-    "static/js/main.355ac86b.chunk.js"
+    "static/css/main.1881f3a5.chunk.css",
+    "static/js/main.e43a6cab.chunk.js"
   ]
 }
