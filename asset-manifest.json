@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https//blari.github.io/reactSearcPage/static/css/main.1881f3a5.chunk.css",
-    "main.js": "https//blari.github.io/reactSearcPage/static/js/main.e43a6cab.chunk.js",
-    "main.js.map": "https//blari.github.io/reactSearcPage/static/js/main.e43a6cab.chunk.js.map",
-    "runtime-main.js": "https//blari.github.io/reactSearcPage/static/js/runtime-main.12a039d5.js",
-    "runtime-main.js.map": "https//blari.github.io/reactSearcPage/static/js/runtime-main.12a039d5.js.map",
-    "static/js/2.aa6b2f6b.chunk.js": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js",
-    "static/js/2.aa6b2f6b.chunk.js.map": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.map",
-    "index.html": "https//blari.github.io/reactSearcPage/index.html",
-    "precache-manifest.33d14534364a5ca6db278f721c296308.js": "https//blari.github.io/reactSearcPage/precache-manifest.33d14534364a5ca6db278f721c296308.js",
-    "service-worker.js": "https//blari.github.io/reactSearcPage/service-worker.js",
-    "static/css/main.1881f3a5.chunk.css.map": "https//blari.github.io/reactSearcPage/static/css/main.1881f3a5.chunk.css.map",
-    "static/js/2.aa6b2f6b.chunk.js.LICENSE": "https//blari.github.io/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.LICENSE"
+    "main.css": "/reactSearcPage/static/css/main.1881f3a5.chunk.css",
+    "main.js": "/reactSearcPage/static/js/main.e1d69585.chunk.js",
+    "main.js.map": "/reactSearcPage/static/js/main.e1d69585.chunk.js.map",
+    "runtime-main.js": "/reactSearcPage/static/js/runtime-main.91e4fc20.js",
+    "runtime-main.js.map": "/reactSearcPage/static/js/runtime-main.91e4fc20.js.map",
+    "static/js/2.aa6b2f6b.chunk.js": "/reactSearcPage/static/js/2.aa6b2f6b.chunk.js",
+    "static/js/2.aa6b2f6b.chunk.js.map": "/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.map",
+    "index.html": "/reactSearcPage/index.html",
+    "precache-manifest.b7c85dfbb3c7d3f4c9314c20a9e48b18.js": "/reactSearcPage/precache-manifest.b7c85dfbb3c7d3f4c9314c20a9e48b18.js",
+    "service-worker.js": "/reactSearcPage/service-worker.js",
+    "static/css/main.1881f3a5.chunk.css.map": "/reactSearcPage/static/css/main.1881f3a5.chunk.css.map",
+    "static/js/2.aa6b2f6b.chunk.js.LICENSE": "/reactSearcPage/static/js/2.aa6b2f6b.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.12a039d5.js",
+    "static/js/runtime-main.91e4fc20.js",
     "static/js/2.aa6b2f6b.chunk.js",
     "static/css/main.1881f3a5.chunk.css",
-    "static/js/main.e43a6cab.chunk.js"
+    "static/js/main.e1d69585.chunk.js"
   ]
 }
